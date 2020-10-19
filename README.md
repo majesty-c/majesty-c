@@ -22,7 +22,7 @@
 
 <p align="center">
  
-<a href="ns879511@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email- vikkyhp0007@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="ns879511@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email- ns879511@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [majesty-c](https://github.com/majesty-c)
